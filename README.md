@@ -1,4 +1,4 @@
-# This is my readme file
+# This is my readme file by me
 Raspberry Pi  acoustic sensor project
 
 This project will turn a raspberry Pi 3  into  an acoustic sensor
